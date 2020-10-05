@@ -10,6 +10,7 @@
   "files.associations": {
     ".czrc": "json",
     ".huskyrc": "json",
+    ".eslintrc.json": "json",
     ".env.*": "dotenv"
   },
   "files.insertFinalNewline": true,

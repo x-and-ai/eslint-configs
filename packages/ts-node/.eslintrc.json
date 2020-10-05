@@ -18,7 +18,6 @@
     "ecmaFeatures": {
       "jsx": false
     },
-    // typescript-eslint specific options
     "warnOnUnsupportedTypeScriptVersion": true
   },
   "settings": {
