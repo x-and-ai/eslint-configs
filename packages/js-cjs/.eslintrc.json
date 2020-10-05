@@ -4,6 +4,7 @@
   "plugins": ["prettier"],
   "env": {
     "commonjs": true,
+    "es6": true,
     "node": true
   },
   "parserOptions": {

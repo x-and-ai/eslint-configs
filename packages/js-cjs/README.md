@@ -11,8 +11,9 @@ This ESLint configuration
 
 ## Requirements
 
-- Node.js ≥ 12
-- ESLint ≥ 7
+- Node.js >= 12
+- ESLint >= 7.10.0
+- Prettier >= 2.1.2
 
 ## Installation
 
