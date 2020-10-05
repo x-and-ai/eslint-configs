@@ -1,0 +1,16 @@
+// JS ESLint configuration for Node.js scripting
+{
+  "extends": ["airbnb-base", "plugin:prettier/recommended"],
+  "plugins": ["prettier"],
+  "env": {
+    "commonjs": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 10,
+    "sourceType": "script"
+  },
+  "rules": {
+    "prettier/prettier": "warn"
+  }
+}

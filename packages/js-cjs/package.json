@@ -1,0 +1,29 @@
+{
+  "name": "@x-and-ai/eslint-config-js-cjs",
+  "version": "0.1.0",
+  "description": "X and AI JavaScript CommonJS ESLint Configuration",
+  "author": "X and AI",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-and-ai/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/x-and-ai/eslint-config/issues"
+  },
+  "homepage": "https://github.com/x-and-ai/eslint-config/packages/js-cjs#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-import": "^2.21.2",
+    "prettier": "^2.1.2"
+  },
+  "peerDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
