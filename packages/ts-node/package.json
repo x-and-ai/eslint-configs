@@ -1,0 +1,32 @@
+{
+  "name": "@x-and-ai/eslint-config-ts-node",
+  "version": "0.1.0",
+  "description": "X and AI TypeScript Node.js ESLint Configuration",
+  "author": "X and AI",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-and-ai/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/x-and-ai/eslint-config/issues"
+  },
+  "homepage": "https://github.com/x-and-ai/eslint-config/packages/ts-node#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.3.0",
+    "@typescript-eslint/parser": "^4.3.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-import": "^2.21.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.10.0",
+    "prettier": ">=2.1.2",
+    "typescript": ">=4.0.3"
+  }
+}
