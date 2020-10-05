@@ -1,4 +1,3 @@
-// JS ESLint configuration for Node.js scripting
 {
   "extends": ["airbnb-base", "plugin:prettier/recommended"],
   "plugins": ["prettier"],
