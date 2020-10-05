@@ -1,0 +1,27 @@
+{
+  "name": "@x-and-ai/eslint-config",
+  "description": "X and AI ESLint Configurations",
+  "author": "X and AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-and-ai/eslint-config.git"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "publish-ci": "lerna publish from-package -y --no-verify-access",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.10.3",
+    "commitizen": "^4.2.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.10.0",
+    "husky": "^4.3.0",
+    "lerna": "^3.22.1",
+    "prettier": "^2.1.2"
+  }
+}
