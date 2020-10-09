@@ -1,5 +1,11 @@
 # @x-and-ai/eslint-config-js-cjs
 
+## 0.1.4
+
+### Patch Changes
+
+- 86e0932: - b831920 feat(ts-node): added eslint-import-resolver-typescript
+
 ## 0.1.3
 
 ### Patch Changes
