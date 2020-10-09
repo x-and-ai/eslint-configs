@@ -27,8 +27,7 @@
     "import/resolver": {
       "node": {
         "extensions": [".ts"]
-      },
-      "webpack": {}
+      }
     }
   },
   "rules": {
