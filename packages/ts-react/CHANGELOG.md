@@ -1,5 +1,11 @@
 # @x-and-ai/eslint-config-ts-node
 
+## 0.1.5
+
+### Patch Changes
+
+- bb4aa77: feat(ts-react): added TypeScript React ESLint config
+
 ## 0.1.4
 
 ### Patch Changes
