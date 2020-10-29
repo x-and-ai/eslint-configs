@@ -1,5 +1,11 @@
 # @x-and-ai/eslint-config-ts-node
 
+## 0.1.6
+
+### Patch Changes
+
+- e35c294: build(npm): updated dependencies
+
 ## 0.1.5
 
 ### Patch Changes
