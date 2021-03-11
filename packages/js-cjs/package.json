@@ -1,6 +1,6 @@
 {
   "name": "@x-and-ai/eslint-config-js-cjs",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "description": "X and AI JavaScript CommonJS ESLint Configuration",
   "author": "X and AI",
   "license": "MIT",

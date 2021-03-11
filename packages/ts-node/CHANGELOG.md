@@ -1,5 +1,11 @@
 # @x-and-ai/eslint-config-ts-node
 
+## 1.0.0
+
+### Major Changes
+
+- 7e33a19: update dependencies
+
 ## 0.1.6
 
 ### Patch Changes
