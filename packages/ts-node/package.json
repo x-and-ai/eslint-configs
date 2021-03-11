@@ -1,6 +1,6 @@
 {
   "name": "@x-and-ai/eslint-config-ts-node",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "description": "X and AI TypeScript Node.js ESLint Configuration",
   "author": "X and AI",
   "license": "MIT",
