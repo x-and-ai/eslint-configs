@@ -1,5 +1,11 @@
 # @x-and-ai/eslint-config-ts-node
 
+## 1.1.0
+
+### Minor Changes
+
+- ee44672: upgrade outdated package version and fixed conflict
+
 ## 1.0.0
 
 ### Major Changes
