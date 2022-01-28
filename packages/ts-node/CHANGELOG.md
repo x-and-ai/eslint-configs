@@ -1,5 +1,11 @@
 # @x-and-ai/eslint-config-ts-node
 
+## 1.1.1
+
+### Patch Changes
+
+- 6f68adb: solved eslint problems in eslint
+
 ## 1.1.0
 
 ### Minor Changes
