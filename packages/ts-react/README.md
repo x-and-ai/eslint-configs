@@ -11,10 +11,10 @@ This ESLint configuration
 
 ## Requirements
 
-- Node.js >= 12
-- ESLint >= 7.10.0
-- TypeScript >= 4.0.3
-- Prettier >= 2.1.2
+- Node.js >= 16
+- ESLint >= 8.7.0
+- TypeScript >= 4.5.5
+- Prettier >= 2.5.1
 
 ## Installation
 
